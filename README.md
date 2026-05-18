@@ -16,23 +16,18 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 </p>
 
 ## 🔥 Interests
 
 🎮 게임 개발  ·  🔐 보안 / CTF  ·  🖧 인프라 / 서버  ·  🌐 웹 개발
 
-## 🚀 Featured Project
-
-### [LunarvisLMS](https://github.com/russy0/LunarvisLMS)
-
-> 학원 등 교육기관을 위한 간편한 LMS 구축 및 운영 플랫폼
-
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=russy0&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russy0&layout=pie&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=russy0&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russy0&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ## 📈 Contribution
