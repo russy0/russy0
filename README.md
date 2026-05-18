@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=header&text=Welcome+To+russy0's+Github!🖐️&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:4FC3F7&height=300&width=100%&section=header&text=Welcome+To+russy0's+Github!🖐️&fontSize=50&fontColor=ffffff" />
 </p>
 
 <p align='center'>
@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=russy0&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russy0&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=russy0&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=russy0&theme=radical" alt="Top Langs" />
 </p>
 
 ## 📈 Contribution
