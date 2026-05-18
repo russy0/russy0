@@ -4,6 +4,7 @@
 
 <p align='center'>
   <a href="mailto:russy10370@gmail.com"><img src="https://img.shields.io/badge/russy10370%40gmail.com-black?style=flat&logo=Gmail&logoColor=white&labelColor=%23EA4335&color=%23333333"></a>
+  <a href="https://discord.com/users/_russy1037_"><img src="https://img.shields.io/badge/_russy1037_-black?style=flat&logo=Discord&logoColor=white&labelColor=%235865F2&color=%234752C4"></a>
 </p>
 
 ## 💻 Tech Stacks
