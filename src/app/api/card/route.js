@@ -123,7 +123,7 @@ export async function GET() {
     { label: 'Public Repos', value: String(repos) },
     { label: 'Followers',    value: String(followers) },
     { label: 'Username',     value: USERNAME },
-    { label: 'Focus',        value: 'game dev / CTF' },
+    { label: 'Focus',        value: 'game dev / WEB' },
   ]
   const sCardW = (W - 64 - 12 * 3) / 4
   const sCardH = 68
