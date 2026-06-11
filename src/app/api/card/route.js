@@ -110,12 +110,11 @@ export async function GET() {
   // ─── HERO ──────────────────────────────────────────────────────────────────
   elements += `<text x="32" y="${y + 44}" ${FONT} font-size="11" fill="${ACCENT}" opacity="0.8" letter-spacing="2">// student developer</text>`
   elements += `<text x="32" y="${y + 90}" ${FONT} font-size="42" fill="${WHITE}" font-weight="400" letter-spacing="-1">russy0</text>`
-  elements += `<text x="32" y="${y + 120}" ${FONT_SANS} font-size="13" fill="${MUTED}">한국디지털미디어고등학교 · GAMES 클럽</text>`
-  elements += `<text x="32" y="${y + 140}" ${FONT_SANS} font-size="13" fill="${MUTED}">game dev / security / infra / web</text>`
-  elements += divider(y + 158)
-  elements += `<text x="32"  y="${y + 174}" ${FONT} font-size="11" fill="${MUTED}">russy10370@gmail.com</text>`
-  elements += `<text x="220" y="${y + 174}" ${FONT} font-size="11" fill="${MUTED}">discord: _russy1037_</text>`
-  elements += `<text x="400" y="${y + 174}" ${FONT} font-size="11" fill="${MUTED}">github.com/russy0</text>`
+  elements += `<text x="32" y="${y + 120}" ${FONT_SANS} font-size="13" fill="${MUTED}">game dev / security / infra / web</text>`
+  elements += divider(y + 138)
+  elements += `<text x="32"  y="${y + 154}" ${FONT} font-size="11" fill="${MUTED}">russy10370@gmail.com</text>`
+  elements += `<text x="220" y="${y + 154}" ${FONT} font-size="11" fill="${MUTED}">discord: _russy1037_</text>`
+  elements += `<text x="400" y="${y + 154}" ${FONT} font-size="11" fill="${MUTED}">github.com/russy0</text>`
   y += 200
 
   // ─── STATS ─────────────────────────────────────────────────────────────────
