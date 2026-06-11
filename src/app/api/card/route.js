@@ -4,10 +4,9 @@ const W = 800
 const USERNAME = 'russy0'
 
 const AREAS = [
-  { title: 'Game Dev',       desc: 'Unity · FMOD · visual novel\nrhythm game · narrative systems' },
-  { title: 'Security / CTF', desc: 'web · binary exploitation\nreversing · DIMI CTF' },
-  { title: 'Infra',          desc: 'homelab · OpenWrt · OCI\nTrueNAS · VPN · VLAN' },
-  { title: 'Web',            desc: 'PHP · Go · REST\nWebSocket · Discord bot' },
+  { title: 'Game Dev',       desc: 'Unity' },
+  { title: 'Infra',          desc: 'homelab · OpenWrt · VPS\nTrueNAS' },
+  { title: 'Web',            desc: 'PHP · Go · REST\nWebSocke' },
 ]
 
 const GROUPS = [
@@ -27,7 +26,6 @@ const GROUPS = [
     label: 'Engines',
     items: [
       { name: 'Unity',         color: '#cccccc' },
-      { name: 'Unreal Engine', color: '#8a8a8a' },
     ],
   },
   {
@@ -37,8 +35,6 @@ const GROUPS = [
       { name: 'Nginx',     color: '#009639' },
       { name: 'MariaDB',   color: '#6495ED' },
       { name: 'Docker',    color: '#2496ED' },
-      { name: 'WireGuard', color: '#cc3333' },
-      { name: 'Redis',     color: '#EE4444' },
     ],
   },
 ]
