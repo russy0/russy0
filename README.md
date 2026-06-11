@@ -1,1 +1,1 @@
-![card](https://russy0githubmain.vercel.app/api/card)
+![card](https://russy0main.vercel.app/api/card)
